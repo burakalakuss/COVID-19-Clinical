@@ -1,4 +1,4 @@
-# Comparison of Deep Learning Approaches to Predict COVID-19 Clinical 
+# Comparison of Deep Learning Approaches to Predict COVID-19 Clinical Severity
 
 The SARS-CoV2 virus, which causes COVID-19 (coronavirus disease) has become a pandemic and has expanded all over the world.  Because of increasing number of cases day by day, it takes time to interpret the clinical findings thus the limitations in terms of both treatment and findings are emerged. 
 Due to such limitations, the need for clinical decisions making system with predictive algorithms has arisen.
