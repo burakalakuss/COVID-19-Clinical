@@ -1,3 +1,8 @@
 # Comparison of deep learning approaches to predict COVID-19 infection
 
 The SARS-CoV2 virus, which causes COVID-19 (coronavirus disease) has become a pandemic and has expanded all over the world.  Because of increasing number of cases day by day, it takes time to interpret the laboratory findings thus the limitations in terms of both treatment and findings are emerged. Due to such limitations, the need for clinical decisions making system with predictive algorithms has arisen. Predictive algorithms could potentially ease the strain on healthcare systems by identifying the diseases.  In this study, we perform clinical predictive models that estimate, using deep learning and laboratory data, which patients are likely to receive a COVID-19 disease. To evaluate the predictive performance of our models, precision, F1-score, recall, AUC, and accuracy scores calculated. Models were tested with 18 laboratory findings from 600 patients and validated with 10 fold cross-validation and train-test split approaches. The experimental results indicate that our predictive models identify patients that have COVID-19 disease at an accuracy of 86.66%, F1-score of 91.89%, precision of 86.75%, recall of 99.42%, and AUC of 62.50%. It is observed that predictive models trained on laboratory findings could be used to predict COVID-19 infection, and can be helpful for medical experts to prioritize the resources correctly. Our models can be employed to assists medical experts in validating their initial laboratory findings, and can also be used for clinical prediction studies.
+
+
+# Citation
+
+The published version of our article is now available online at:https://doi.org/10.1016/j.chaos.2020.110120
